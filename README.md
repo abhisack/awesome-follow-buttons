@@ -4,11 +4,7 @@ Awesome Follow Buttons with  CSS &amp; jQuery. Little experiment with jQuery to 
 ###Usage
 1. Link css file inside "CSS" folder to your webpage
   
-
-<code>
-<link re="stylesheet" href="css/style.css">
-</code>
-
+&lt;link re="stylesheet" href="css/style.css">
 
 2. Add every script tag to "<head>" section of your webpage including the one linking to jQuery.
 
